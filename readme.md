@@ -113,7 +113,7 @@ SEMICD_V2/
    ```bash
    npx create-react-app client
    cd client
-   npm install react-bootstrap bootstrap axios
+   npm install react-bootstrap bootstrap axios react-icons
    ```
 2. package.json 수정
    - node_modules와 package-lock.json 삭제 후 npm install 실행
