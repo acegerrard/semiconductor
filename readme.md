@@ -53,7 +53,7 @@ SEMICD_V2/
 1. 프로젝트 디렉토리로 이동
 2. 가상 환경 생성 및 활성화
    ```bash
-   python -m venv myenv
+   python3 -m venv myenv
    source myenv/bin/activate  # Windows의 경우: myenv\Scripts\activate
    ```
 3. 필요한 패키지 설치
